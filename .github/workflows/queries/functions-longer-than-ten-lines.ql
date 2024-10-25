@@ -1,7 +1,7 @@
 /**
  * @description Find all functions longer than 10 lines in JavaScript or TypeScript test files
  * @kind problem
- * @id javascript/long-functions-in-tests
+ * @id javascript/functions-longer-than-ten-lines.ql
  * @problem.severity recommendation
  */
 import javascript

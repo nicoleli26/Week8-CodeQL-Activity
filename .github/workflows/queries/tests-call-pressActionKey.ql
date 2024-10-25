@@ -1,7 +1,7 @@
 /**
  * @description Find all tests that call "pressActionKey"
  * @kind problem
- * @id javascript/tests-calling-pressActionKey
+ * @id javascript/tests-call-pressActionKey
  * @problem.severity recommendation
  */
 import javascript
